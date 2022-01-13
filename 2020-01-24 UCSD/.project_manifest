@@ -1,0 +1,6 @@
+{
+    "container": "genepattern/genepattern-notebook:21.12",
+    "description": "Workshop at UCSD (2020-01-24)",
+    "image": "Legacy",
+    "name": "UCSD 2020-01-24"
+}
