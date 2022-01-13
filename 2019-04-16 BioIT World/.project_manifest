@@ -1,0 +1,6 @@
+{
+    "container": "genepattern/genepattern-notebook:21.12",
+    "description": "Workshop at BioIT World",
+    "image": "Legacy",
+    "name": "BioIT World 2019-04-16"
+}
