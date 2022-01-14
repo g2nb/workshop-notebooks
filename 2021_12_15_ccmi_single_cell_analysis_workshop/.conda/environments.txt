@@ -1,0 +1,2 @@
+/opt/conda
+/home/jovyan/.local/r

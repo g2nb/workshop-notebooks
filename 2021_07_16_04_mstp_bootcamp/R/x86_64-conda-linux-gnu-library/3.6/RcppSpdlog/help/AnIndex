@@ -1,0 +1,4 @@
+RcppSpdlog-package	RcppSpdlog-package
+exampleRsink	exampleRsink
+RcppSpdlog	RcppSpdlog-package
+setLogLevel	setLogLevel

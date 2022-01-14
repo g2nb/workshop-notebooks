@@ -1,0 +1,11 @@
+{
+ "argv": [
+  "/opt/conda/envs/rpy2/bin/python",
+  "-m",
+  "ipykernel_launcher",
+  "-f",
+  "{connection_file}"
+ ],
+ "display_name": "rpy2",
+ "language": "python"
+}

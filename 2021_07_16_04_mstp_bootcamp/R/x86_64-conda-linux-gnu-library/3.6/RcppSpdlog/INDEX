@@ -1,0 +1,3 @@
+RcppSpdlog-package      'spdlog' C++ Header Library for Logging
+exampleRsink            spdlog Example using a sink for R
+setLogLevel             spdlog Logging Lever Setter

@@ -1,0 +1,6 @@
+export( dmp, pmp, qmp, rmp,
+        dtw, ptw, qtw, rtw, 
+     	dWishartMax, pWishartMax, qWishartMax, rWishartMax,
+        WishartMaxPar,
+        dWishartSpike, pWishartSpike, qWishartSpike, rWishartSpike,
+        WishartSpikePar )

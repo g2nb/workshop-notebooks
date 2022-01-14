@@ -1,0 +1,6 @@
+dendsort                Sorting and reordering dendrogram nodes
+dendsort-package        Modular Leaf Ordering Methods for Dendrogram
+                        Nodes
+sample_tcga             Sample data matrix from the integrated pathway
+                        analysis of gastric cancer from the Cancer
+                        Genome Atlas (TCGA) study

@@ -1,0 +1,9 @@
+MarcenkoPastur          The Marcenko-Pastur Distribution
+TracyWidom              The Tracy-Widom Distributions
+WishartMax              The White Wishart Maximum Eigenvalue
+                        Distributions
+WishartMaxPar           White Wishart Maximum Eigenvalue Centering and
+                        Scaling
+WishartSpike            The Spiked Wishart Maximum Eigenvalue
+                        Distributions
+WishartSpikePar         Spiked Wishart Eigenvalue Centering and Scaling
